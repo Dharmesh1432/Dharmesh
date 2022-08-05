@@ -1,0 +1,6 @@
+D:\MVC .NET\MODULE_3\58\bin\Debug\58.exe.config
+D:\MVC .NET\MODULE_3\58\bin\Debug\58.exe
+D:\MVC .NET\MODULE_3\58\bin\Debug\58.pdb
+D:\MVC .NET\MODULE_3\58\obj\Debug\58.csproj.CoreCompileInputs.cache
+D:\MVC .NET\MODULE_3\58\obj\Debug\58.exe
+D:\MVC .NET\MODULE_3\58\obj\Debug\58.pdb

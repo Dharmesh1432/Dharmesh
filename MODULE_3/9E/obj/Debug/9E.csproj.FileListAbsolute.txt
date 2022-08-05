@@ -1,0 +1,6 @@
+D:\MVC .NET\MODULE_3\9E\bin\Debug\9E.exe.config
+D:\MVC .NET\MODULE_3\9E\bin\Debug\9E.exe
+D:\MVC .NET\MODULE_3\9E\bin\Debug\9E.pdb
+D:\MVC .NET\MODULE_3\9E\obj\Debug\9E.csproj.CoreCompileInputs.cache
+D:\MVC .NET\MODULE_3\9E\obj\Debug\9E.exe
+D:\MVC .NET\MODULE_3\9E\obj\Debug\9E.pdb

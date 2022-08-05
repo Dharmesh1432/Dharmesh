@@ -1,0 +1,7 @@
+D:\MVC .NET\MODULE_3\43\bin\Debug\43.exe.config
+D:\MVC .NET\MODULE_3\43\bin\Debug\43.exe
+D:\MVC .NET\MODULE_3\43\bin\Debug\43.pdb
+D:\MVC .NET\MODULE_3\43\obj\Debug\43.csproj.CoreCompileInputs.cache
+D:\MVC .NET\MODULE_3\43\obj\Debug\43.exe
+D:\MVC .NET\MODULE_3\43\obj\Debug\43.pdb
+D:\MVC .NET\MODULE_3\43\obj\Debug\43.csproj.AssemblyReference.cache

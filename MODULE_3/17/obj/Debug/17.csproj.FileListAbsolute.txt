@@ -1,0 +1,6 @@
+D:\MVC .NET\MODULE_3\17\bin\Debug\17.exe.config
+D:\MVC .NET\MODULE_3\17\bin\Debug\17.exe
+D:\MVC .NET\MODULE_3\17\bin\Debug\17.pdb
+D:\MVC .NET\MODULE_3\17\obj\Debug\17.csproj.CoreCompileInputs.cache
+D:\MVC .NET\MODULE_3\17\obj\Debug\17.exe
+D:\MVC .NET\MODULE_3\17\obj\Debug\17.pdb

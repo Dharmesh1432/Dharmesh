@@ -1,0 +1,6 @@
+D:\MVC .NET\MODULE_3\34\bin\Debug\34.exe.config
+D:\MVC .NET\MODULE_3\34\bin\Debug\34.exe
+D:\MVC .NET\MODULE_3\34\bin\Debug\34.pdb
+D:\MVC .NET\MODULE_3\34\obj\Debug\34.csproj.CoreCompileInputs.cache
+D:\MVC .NET\MODULE_3\34\obj\Debug\34.exe
+D:\MVC .NET\MODULE_3\34\obj\Debug\34.pdb

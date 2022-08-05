@@ -1,0 +1,7 @@
+D:\MVC .NET\MODULE_3\4\bin\Debug\4.exe.config
+D:\MVC .NET\MODULE_3\4\bin\Debug\4.exe
+D:\MVC .NET\MODULE_3\4\bin\Debug\4.pdb
+D:\MVC .NET\MODULE_3\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+D:\MVC .NET\MODULE_3\4\obj\Debug\4.exe
+D:\MVC .NET\MODULE_3\4\obj\Debug\4.pdb
+D:\MVC .NET\MODULE_3\4\obj\Debug\4.csproj.AssemblyReference.cache

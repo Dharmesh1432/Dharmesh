@@ -1,0 +1,6 @@
+D:\MVC .NET\MODULE_3\15\bin\Debug\15.exe.config
+D:\MVC .NET\MODULE_3\15\bin\Debug\15.exe
+D:\MVC .NET\MODULE_3\15\bin\Debug\15.pdb
+D:\MVC .NET\MODULE_3\15\obj\Debug\15.csproj.CoreCompileInputs.cache
+D:\MVC .NET\MODULE_3\15\obj\Debug\15.exe
+D:\MVC .NET\MODULE_3\15\obj\Debug\15.pdb

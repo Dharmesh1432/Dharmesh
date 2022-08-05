@@ -1,0 +1,6 @@
+D:\MVC .NET\MODULE_3\38\obj\Debug\38.csproj.CoreCompileInputs.cache
+D:\MVC .NET\MODULE_3\38\bin\Debug\38.exe.config
+D:\MVC .NET\MODULE_3\38\bin\Debug\38.exe
+D:\MVC .NET\MODULE_3\38\bin\Debug\38.pdb
+D:\MVC .NET\MODULE_3\38\obj\Debug\38.exe
+D:\MVC .NET\MODULE_3\38\obj\Debug\38.pdb

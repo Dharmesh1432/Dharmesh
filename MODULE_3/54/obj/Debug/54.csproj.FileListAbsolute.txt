@@ -1,0 +1,6 @@
+D:\MVC .NET\MODULE_3\54\bin\Debug\54.exe.config
+D:\MVC .NET\MODULE_3\54\bin\Debug\54.exe
+D:\MVC .NET\MODULE_3\54\bin\Debug\54.pdb
+D:\MVC .NET\MODULE_3\54\obj\Debug\54.csproj.CoreCompileInputs.cache
+D:\MVC .NET\MODULE_3\54\obj\Debug\54.exe
+D:\MVC .NET\MODULE_3\54\obj\Debug\54.pdb

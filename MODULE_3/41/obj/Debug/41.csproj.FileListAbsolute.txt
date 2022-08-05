@@ -1,0 +1,6 @@
+D:\MVC .NET\MODULE_3\41\bin\Debug\41.exe.config
+D:\MVC .NET\MODULE_3\41\bin\Debug\41.exe
+D:\MVC .NET\MODULE_3\41\bin\Debug\41.pdb
+D:\MVC .NET\MODULE_3\41\obj\Debug\41.csproj.CoreCompileInputs.cache
+D:\MVC .NET\MODULE_3\41\obj\Debug\41.exe
+D:\MVC .NET\MODULE_3\41\obj\Debug\41.pdb

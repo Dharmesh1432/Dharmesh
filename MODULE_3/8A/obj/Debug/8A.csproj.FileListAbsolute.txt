@@ -1,0 +1,6 @@
+D:\MVC .NET\MODULE_3\8A\bin\Debug\8A.exe.config
+D:\MVC .NET\MODULE_3\8A\bin\Debug\8A.exe
+D:\MVC .NET\MODULE_3\8A\bin\Debug\8A.pdb
+D:\MVC .NET\MODULE_3\8A\obj\Debug\8A.csproj.CoreCompileInputs.cache
+D:\MVC .NET\MODULE_3\8A\obj\Debug\8A.exe
+D:\MVC .NET\MODULE_3\8A\obj\Debug\8A.pdb
